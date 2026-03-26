@@ -1,0 +1,9 @@
+baseURL = 'https://twosecretweapons.com/'
+languageCode = 'en-us'
+title = 'Two Secret Weapons'
+theme = 'ananke'
+
+[params]
+  description = 'Fleet Command for Bitaxe Miners'
+  background_color_class = 'bg-black'
+  recent_posts_number = 0 # Keeps the focus on your App pages
