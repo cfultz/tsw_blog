@@ -2,6 +2,7 @@ baseURL = 'https://twosecretweapons.com/'
 languageCode = 'en-us'
 title = 'Two Secret Weapons'
 theme = 'ananke'
+uglyURLs = false
 
 [params]
   description = 'Fleet Command for Bitaxe Miners'
