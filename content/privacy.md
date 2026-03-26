@@ -1,7 +1,7 @@
 +++
 title = 'Privacy'
 date = 2026-03-26T16:13:56-04:00
-draft = true
+draft = false
 +++
 
 # Privacy Policy
