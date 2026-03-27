@@ -6,7 +6,9 @@ uglyURLs = false
 
 [params]
   description = 'Fleet Command for Bitaxe Miners'
+  show_reading_time = false
   background_color_class = 'bg-black'
+  mainSections = []
   recent_posts_number = 0 # Keeps the focus on your App page
 
 [[menu.main]]

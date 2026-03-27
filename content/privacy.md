@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
 date: 2026-03-26
+type: "page"
 draft: false
 ---
 
