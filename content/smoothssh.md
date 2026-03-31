@@ -36,7 +36,7 @@ SmoothSSH is open-source and built for the community. You can compile it yoursel
 
 **Installation via CLI:**
 ```bash
-git clone [https://github.com/cfultz/smoothssh.git](https://github.com/cfultz/smoothssh.git)
+git clone https://github.com/cfultz/smoothssh.git
 cd smoothssh
 flutter pub get
 flutter run --release
