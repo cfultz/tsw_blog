@@ -9,6 +9,8 @@ Welcome to **Two Secret Weapons**, a development studio dedicated to building pr
 
 ### Our Applications
 
+* **[LabPing](/labping/)** A premium, local-first homelab monitoring dashboard. Track uptime, latency, and receive offline alerts for your self-hosted infrastructure with zero cloud dependencies.
+
 * **[AxeWatch](/axewatch/)** Professional real-time monitoring, thermal alerts, and fleet management for your Bitaxe hardware. Your miner data never leaves your local network.
 
 * **[Prologue](/prologue/)** A beautiful, pass-through client for your self-hosted Audiobookshelf instance. Stream and download your audio library directly from your own server.
