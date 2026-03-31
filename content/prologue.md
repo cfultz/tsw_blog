@@ -18,4 +18,4 @@ type: "page"
 ### Zero Telemetry
 Prologue is a "pass-through" tool. We do not operate a middleman server, we do not intercept your login credentials, and we do not track what you listen to. Your data travels securely and directly from your device to your server.
 
-[**Get Prologue on Google Play (Coming soon)**](#)
+[**Get Prologue on Google Play](https://play.google.com/store/apps/details?id=com.cfultz.prologue)

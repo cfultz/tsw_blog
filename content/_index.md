@@ -11,6 +11,8 @@ Welcome to **Two Secret Weapons**, a development studio dedicated to building pr
 
 * **[LabPing](/labping/)** A premium, local-first homelab monitoring dashboard. Track uptime, latency, and receive offline alerts for your self-hosted infrastructure with zero cloud dependencies.
 
+* **[SmoothSSH](/smoothssh/)** SmoothSSH A high-performance, gesture-driven SSH client for Android. Built for sysadmins who need speed, biometric security, and a frictionless terminal experience on the move.
+
 * **[AxeWatch](/axewatch/)** Professional real-time monitoring, thermal alerts, and fleet management for your Bitaxe hardware. Your miner data never leaves your local network.
 
 * **[Prologue](/prologue/)** A beautiful, pass-through client for your self-hosted Audiobookshelf instance. Stream and download your audio library directly from your own server.
