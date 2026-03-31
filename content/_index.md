@@ -5,7 +5,7 @@ featured_image: '/images/dashboard_preview.png'
 type: "page"
 ---
 
-Welcome to **Two Secret Weapons**, a development studio dedicated to building privacy-first tools. We believe your data belongs to you—no tracking, no telemetry, no cloud accounts.
+Welcome to **Two Secret Weapons**, a development duo dedicated to building privacy-first tools. We believe your data belongs to you—no tracking, no telemetry, no cloud accounts.
 
 ### Our Applications
 
