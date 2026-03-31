@@ -1,15 +1,15 @@
 ---
 title: "Privacy Policy"
-date: 2026-03-26
+date: 2026-03-31
 type: "page"
 draft: false
 ---
 
 # Privacy Policy
 
-**Effective Date: March 26, 2026**
+**Effective Date: March 31, 2026**
 
-Two Secret Weapons ("we," "us," or "our") operates the mobile applications **AxeWatch**, **Prologue**, and **RetroStats** (collectively, the "Services"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services.
+Two Secret Weapons ("we," "us," or "our") operates the mobile applications **AxeWatch**, **Prologue**, **RetroStats**, and **LabPing** (collectively, the "Services"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services.
 
 ---
 
@@ -19,6 +19,7 @@ We believe that your data belongs to you. Our applications are designed to be "p
 ### 2. Data Collection and Usage
 We do not collect, store, or transmit any personal data to our own servers. Our applications function entirely on your local device and communicate exclusively with your own hardware, self-hosted servers, or specific third-party APIs you authorize.
 
+* **LabPing (Local Network Data):** The app communicates directly with your specified IP addresses, domains, and ports. Ping history, latency statistics, and node configurations are stored locally on your device. We do not track what services you run or intercept your network requests.
 * **AxeWatch (Local Device Data):** The app communicates directly with your Bitaxe mining hardware via your local area network (LAN). Data such as hashrate, temperature, and pool settings are fetched from your hardware and displayed within the app. Your miner data is never transmitted to us or any third-party servers.
 * **Prologue (Self-Hosted Data):** Any data processed by the app (such as library metadata, playback progress, or login credentials) is stored locally on your device or sent directly to your self-hosted Audiobookshelf instance. There are no intermediaries.
 * **RetroStats (Third-Party API Data):** To function, this app requires your RetroAchievements username and Web API key. This information is stored locally on your device and is used exclusively to authenticate and communicate directly with the official RetroAchievements API. We do not intercept, store, or transmit your API keys or gaming data to our own servers.
@@ -27,10 +28,10 @@ We do not collect, store, or transmit any personal data to our own servers. Our 
 ### 3. Permissions and Background Access
 To provide the core functionality of our apps, specific device permissions are required:
 
-* **Network Access (All Apps):** Required to discover and communicate with Bitaxe miners on your Wi-Fi/LAN, connect to your local Audiobookshelf server, or fetch data from the RetroAchievements API.
+* **Network Access (All Apps):** Required to discover and communicate with Bitaxe miners on your Wi-Fi/LAN, connect to your local Audiobookshelf server, fetch data from the RetroAchievements API, or monitor your self-hosted nodes via LabPing.
 * **Storage Access (Prologue):** Used to download audiobooks for offline playback and to cache album art and metadata locally.
-* **Foreground Service / DATA_SYNC (AxeWatch):** Used to maintain a stable connection with your hardware for real-time monitoring. This allows the app to provide critical thermal alerts and "Zombie Node" notifications even when the app is in the background.
-* **Notifications (AxeWatch & Prologue):** Used to alert you of hardware issues (AxeWatch) or to display media playback controls (Prologue).
+* **Foreground Service / DATA_SYNC (AxeWatch & LabPing):** Used to maintain a stable connection with your hardware (AxeWatch) or continuously ping your homelab services (LabPing). This allows the apps to provide critical thermal alerts or downtime notifications even when backgrounded.
+* **Notifications (AxeWatch, Prologue, & LabPing):** Used to alert you of hardware and server issues (AxeWatch, LabPing) or to display media playback controls (Prologue).
 
 ### 4. Third-Party Services
 We use standard platform services for app distribution, monetization, and specific app features:

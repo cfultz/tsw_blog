@@ -20,4 +20,4 @@ type: "page"
 ### Absolute Privacy
 AxeWatch operates entirely on your local network. Your miner data, hashrate, and pool configurations are never transmitted to our servers or any third-party analytics trackers. There are no accounts, no cloud backends, and no tracking pixels.
 
-[**Get AxeWatch on Google Play (Coming soon)**](#)
+[**Get AxeWatch on Google Play](https://play.google.com/store/apps/details?id=com.cfultz.axewatch)
