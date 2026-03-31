@@ -16,7 +16,17 @@ uglyURLs = false
   url = '/privacy/'
   weight = 10
 
+[[menu.main]]
+  name = 'Remote Access'
+  url = '/remote-access/'
+  weight = 20
+
 [[menu.footer]]
   name = 'Privacy Policy'
   url = '/privacy/'
   weight = 10
+
+[[menu.footer]]
+  name = 'Remote Access'
+  url = '/remote-access/'
+  weight = 20

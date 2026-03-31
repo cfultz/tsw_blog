@@ -21,5 +21,6 @@ Welcome to **Two Secret Weapons**, a development studio dedicated to building pr
 
 ### Support & Legal
 
-* **[Read our Privacy Policy](/privacy/)**
-* **Contact Support:** support@twosecretweapons.com
+**[Read our Privacy Policy](/privacy/)**
+
+**Contact Support:** support@twosecretweapons.com
